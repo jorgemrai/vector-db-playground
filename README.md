@@ -19,7 +19,7 @@ This repo compares how to build a semantic search pipeline using four different 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/jorge-mendoza/vector-db-playground.git
+git clone [https://github.com/jorge-mendoza/vector-db-playground.git](https://github.com/jorgemrai/vector-db-playground.git)
 cd vector-db-playground
 
 # 2. Install dependencies
