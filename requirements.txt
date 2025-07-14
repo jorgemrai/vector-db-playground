@@ -1,0 +1,7 @@
+
+python-dotenv
+sentence_transformers
+chromadb
+faiss
+weaviate-client
+pinecone
